@@ -1,0 +1,2 @@
+# CAHNRS Convert Blocks
+This plugin currently just converts the `[action label="" link="" ]` shortcode to a wsuwp/button block. This plugin will evolve and will include other shortcodes that will be automatically converted to a gutenberg block
